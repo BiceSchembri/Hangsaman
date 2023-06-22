@@ -9,8 +9,8 @@ It follows Shaun Halverson's [tutorial](https://www.youtube.com/watch?v=Bg3rMMuQ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Customization](#1-customizationfeatures)
-- [Tools](#2-toolsfeatures)
+- [Customization](#customization)
+- [Tools](#tools)
 - [Credits](#credits)
 
 ## Installation
@@ -36,7 +36,7 @@ After six incorrect attempts or when the word is completed, the game is over and
 - **foreach** loops to iterate over the characters in the random word and check for correct/incorrect guesses
 - **if ... else if** conditions to determine the different outcomes after the player's guesses.
 
-### 1. Customization
+## Customization
 
 - You can add, remove or update the words in the word list:
 
@@ -51,7 +51,7 @@ List<string> wordDictionary = new List<string> { "button", "cookie", "internship
 Console.WriteLine("\r\nGame is over! Thank you for playing.");
 ```
 
-### 2. Tools
+## Tools
 
 To write the app, I used Microsoft's [Visual Studio](https://visualstudio.microsoft.com/) IDE.
 
