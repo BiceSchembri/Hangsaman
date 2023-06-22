@@ -9,8 +9,9 @@ It follows Shaun Halverson's [tutorial](https://www.youtube.com/watch?v=Bg3rMMuQ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Customization](#1-customizationfeatures)
+- [Tools](#2-toolsfeatures)
+- [Credits](#credits)
 
 ## Installation
 
